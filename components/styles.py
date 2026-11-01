@@ -70,7 +70,7 @@ def load_css():
     }
 
     /* Hide default streamlit decoration */
-    #MainMenu, footer, header { visibility: hidden; }
+    #MainMenu, footer { visibility: hidden; }
 
     /* ── Scrollbar ──────────────────────────────────────────────── */
     ::-webkit-scrollbar { width: 5px; height: 5px; }
